@@ -10,4 +10,4 @@ then gives a random phrase that matches your answer.
 
 ### How to run:
 ```bash
-python feel.py
+py feel.py
